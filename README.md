@@ -1,2 +1,2 @@
-# Python-Inteligence-Artificial
+# Python-Artificial-Inteligence
 Creat by fun! :)
